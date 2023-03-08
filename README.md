@@ -1,11 +1,11 @@
 ## Fala tu, que eu to cansado! 🐌🤝🐓
 
-<div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gasolindo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gasolindo&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Gasolindo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gasolindo&layout=compact&langs_count=16&theme=great-gatsby"/>
 
-<div  align="center"> 
+
+
+<div  align="left"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
@@ -16,13 +16,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
     
-    <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.bsantiago564@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.instagram.com/myname_bruno/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-
-![Snake animation](https://github.com/Gasolindo/Gasolindo/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">Redes Sociais</h1>
+<a href="https://instagram.com/myname_bruno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:bsantiago564@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
